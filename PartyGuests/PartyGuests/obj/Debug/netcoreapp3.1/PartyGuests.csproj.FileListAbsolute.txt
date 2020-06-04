@@ -1,0 +1,13 @@
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\bin\Debug\netcoreapp3.1\PartyGuests.exe
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\bin\Debug\netcoreapp3.1\PartyGuests.deps.json
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\bin\Debug\netcoreapp3.1\PartyGuests.runtimeconfig.json
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\bin\Debug\netcoreapp3.1\PartyGuests.runtimeconfig.dev.json
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\bin\Debug\netcoreapp3.1\PartyGuests.dll
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\bin\Debug\netcoreapp3.1\PartyGuests.pdb
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\obj\Debug\netcoreapp3.1\PartyGuests.csprojAssemblyReference.cache
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\obj\Debug\netcoreapp3.1\PartyGuests.csproj.CoreCompileInputs.cache
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\obj\Debug\netcoreapp3.1\PartyGuests.AssemblyInfoInputs.cache
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\obj\Debug\netcoreapp3.1\PartyGuests.AssemblyInfo.cs
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\obj\Debug\netcoreapp3.1\PartyGuests.dll
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\obj\Debug\netcoreapp3.1\PartyGuests.pdb
+C:\Users\Giorno\Documents\Projects\C#\PartyGuests\PartyGuests\obj\Debug\netcoreapp3.1\PartyGuests.genruntimeconfig.cache
