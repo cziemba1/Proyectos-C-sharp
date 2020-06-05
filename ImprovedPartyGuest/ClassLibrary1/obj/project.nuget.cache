@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Eybu92fSUAW5TiglPAuJJqjq0jkYA2K6AscnTSQvzj1bFsmGnXJKYsP2hU20b7Sk592g5fgdgMhONQ55mJGxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giorno\\Documents\\Projects\\C#\\ImprovedPartyGuest\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giorno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Giorno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

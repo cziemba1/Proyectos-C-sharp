@@ -1,0 +1,6 @@
+C:\Users\Giorno\Documents\Projects\C#\ImprovedPartyGuest\GuestBookLibrary\obj\Debug\GuestBookLibrary.csprojAssemblyReference.cache
+C:\Users\Giorno\Documents\Projects\C#\ImprovedPartyGuest\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Giorno\Documents\Projects\C#\ImprovedPartyGuest\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
+C:\Users\Giorno\Documents\Projects\C#\ImprovedPartyGuest\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
+C:\Users\Giorno\Documents\Projects\C#\ImprovedPartyGuest\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
+C:\Users\Giorno\Documents\Projects\C#\ImprovedPartyGuest\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb
