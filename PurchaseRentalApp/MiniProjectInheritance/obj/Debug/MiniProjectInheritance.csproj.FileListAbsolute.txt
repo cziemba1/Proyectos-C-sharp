@@ -1,0 +1,7 @@
+C:\Users\Giorno\source\repos\MiniProjectInheritance\MiniProjectInheritance\bin\Debug\MiniProjectInheritance.exe.config
+C:\Users\Giorno\source\repos\MiniProjectInheritance\MiniProjectInheritance\bin\Debug\MiniProjectInheritance.exe
+C:\Users\Giorno\source\repos\MiniProjectInheritance\MiniProjectInheritance\bin\Debug\MiniProjectInheritance.pdb
+C:\Users\Giorno\source\repos\MiniProjectInheritance\MiniProjectInheritance\obj\Debug\MiniProjectInheritance.csprojAssemblyReference.cache
+C:\Users\Giorno\source\repos\MiniProjectInheritance\MiniProjectInheritance\obj\Debug\MiniProjectInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Giorno\source\repos\MiniProjectInheritance\MiniProjectInheritance\obj\Debug\MiniProjectInheritance.exe
+C:\Users\Giorno\source\repos\MiniProjectInheritance\MiniProjectInheritance\obj\Debug\MiniProjectInheritance.pdb
