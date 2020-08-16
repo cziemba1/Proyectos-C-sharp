@@ -1,0 +1,7 @@
+C:\Users\Giorno\source\repos\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Giorno\source\repos\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Giorno\source\repos\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Giorno\source\repos\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Giorno\source\repos\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Giorno\source\repos\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Giorno\source\repos\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
