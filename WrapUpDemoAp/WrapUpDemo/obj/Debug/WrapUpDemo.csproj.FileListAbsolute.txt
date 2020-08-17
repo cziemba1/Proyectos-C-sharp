@@ -1,0 +1,7 @@
+C:\Users\Giorno\source\repos\WrapUpDemoAp\WrapUpDemo\bin\Debug\WrapUpDemo.exe.config
+C:\Users\Giorno\source\repos\WrapUpDemoAp\WrapUpDemo\bin\Debug\WrapUpDemo.exe
+C:\Users\Giorno\source\repos\WrapUpDemoAp\WrapUpDemo\bin\Debug\WrapUpDemo.pdb
+C:\Users\Giorno\source\repos\WrapUpDemoAp\WrapUpDemo\obj\Debug\WrapUpDemo.csprojAssemblyReference.cache
+C:\Users\Giorno\source\repos\WrapUpDemoAp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Giorno\source\repos\WrapUpDemoAp\WrapUpDemo\obj\Debug\WrapUpDemo.exe
+C:\Users\Giorno\source\repos\WrapUpDemoAp\WrapUpDemo\obj\Debug\WrapUpDemo.pdb
